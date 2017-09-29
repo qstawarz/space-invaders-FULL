@@ -1,0 +1,5 @@
+﻿  enemy.c
+c:\users\quentin\desktop\gp1m_xgcpgtij\space_invaders\enemy.c(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\quentin\desktop\gp1m_xgcpgtij\space_invaders\enemy.c(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Space Invaders.vcxproj -> C:\Users\Quentin\Desktop\Space Invaders\Debug\Space Invaders.exe
+  Space Invaders.vcxproj -> C:\Users\Quentin\Desktop\Space Invaders\Debug\Space Invaders.pdb (Partial PDB)
